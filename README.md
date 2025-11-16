@@ -73,7 +73,7 @@ Used inside setters to refer to the calling object.
 
 ## File Included
 
--   `oop_demo.cpp`: Full C++ source code with comments explaining every
+-   `oop.cpp`: Full C++ source code with comments explaining every
     concept.
 
 ------------------------------------------------------------------------
@@ -81,8 +81,8 @@ Used inside setters to refer to the calling object.
 ## How to Compile
 
 ``` bash
-g++ -std=c++17 oop_demo.cpp -o oop_demo
-./oop_demo
+g++ -std=c++17 oop.cpp -o oop
+./oop
 ```
 
 ------------------------------------------------------------------------
